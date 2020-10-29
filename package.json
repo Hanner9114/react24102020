@@ -10,7 +10,8 @@
     "react-dom": "^16.14.0",
     "react-image-gallery": "^1.0.8",
     "react-scripts": "3.4.3",
-    "react-slideshow-image": "^3.3.0"
+    "react-slideshow-image": "^3.3.0",
+    "serve": "^11.3.2"
   },
   "scripts": {
     "dev": "react-scripts start",
