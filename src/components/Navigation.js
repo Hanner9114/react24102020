@@ -14,7 +14,7 @@ class Navigation extends Component {
               <div class="navbar-nav">
                 <a class="nav-link active text-white" href="#">Inicio <span class="sr-only">(current)</span></a>
                 <a class="nav-link text-white" href="#">¿Quién somos?</a>
-                <a class="nav-link text-white" href="#">Galería</a>
+                <a class="nav-link text-white"><Link to={"/galeria"}>Galería</Link></a>
                 <a class="nav-link text-white" href="#">Contacto</a>
               </div>
             </div>
